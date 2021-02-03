@@ -16,11 +16,25 @@
   ],
   "joueurs": [
     {
-      "id": 1,
       "nom": "Neymar",
       "poste": "AG",
       "nationalite": "Brazil",
-      "equipeId": 1
+      "equipeId": 1,
+      "id": 1
+    },
+    {
+      "nom": "Neymar",
+      "poste": "AG",
+      "nationalite": "Brazil",
+      "equipeId": 1,
+      "id": 2
+    },
+    {
+      "nom": "joueur3",
+      "poste": "DG",
+      "natoinalite": "France",
+      "equipeId": 1,
+      "id": 3
     }
   ]
 }
